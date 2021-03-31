@@ -55,7 +55,7 @@ body{
     justify-content: space-around;
 }
 .card-body-title{
-    text-transform: capitalize f;
+    text-transform: capitalize;
     font-size: 2rem;
 }
 span{
